@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "dev-clean": "vuepress dev docs --clean-cache --clean-temp",
-    "build": "vuepress build docs --clean-cache --clean-temp",
+    "docs:build": "vuepress build docs --clean-cache --clean-temp",
     "preview": "http-server docs/.vuepress/dist",
     "vp-update": "vp-update",
     "changelog": "conventional-changelog -p angular -i docs/CHANGELOG.md -s -r 2",
