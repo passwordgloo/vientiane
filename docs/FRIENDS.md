@@ -15,7 +15,7 @@ list:
     avatar: /home/github.jpeg
     desc: 微不可不防，远不可不虑。
   -
-    name: 预见
+    name: 预见未来
     link: https://iglooblog.top
     avatar: /home/blog.png
     desc: 见微以知萌，见端以知末。
@@ -29,5 +29,10 @@ list:
     link: https://law.iglooblog.top
     avatar: /home/comet.png
     desc: 积正不倦，必生节义之志。
+  -
+    name: 黑曜石
+    link: https://iglooblog.top:81
+    avatar: /home/obsidian.webp
+    desc: 平芜尽处是春山，行人更在春山。
 ---
 

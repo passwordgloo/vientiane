@@ -3,13 +3,6 @@ import { version } from '../../package.json'
 
 export const navbar = defineNavbarConfig([
     { text: '首页', link: '/', icon: 'solar:home-smile-bold' },
-    { text: 'C4D', link: '/article/ajcfa3ew/', icon: 'solar:planet-3-bold-duotone' },
-    { text: 'PS', link: '/article/01t7xrco/', icon: 'solar:crown-minimalistic-bold-duotone' },
-    {
-        text: 'PPT',
-        link: '/article/twm4lkrx/',
-        icon: 'solar:posts-carousel-vertical-line-duotone'
-    },
     {
         text: '前端',
         icon: 'solar:box-bold-duotone',
