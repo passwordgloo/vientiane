@@ -2,8 +2,6 @@
 <p class="hint-container-title">Mac不支持</p>
 <p>Mac上Office启用Active X控件时，会弹出警告框，提示不支持显示该功能</p>
 </div>
-<p><img src="/excel/截屏2024-04-1321.55.15.png" alt=""></p>
-<p><img src="/excel/截屏2024-04-1321.55.21.png" alt=""></p>
 <h2 id="按钮控件" tabindex="-1"><a class="header-anchor" href="#按钮控件"><span>按钮控件</span></a></h2>
 <div class="language-vb line-numbers-mode" data-ext="vb" data-title="vb"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#AB5959;--shiki-dark:#CB7676">Sub</span><span style="--shiki-light:#59873A;--shiki-dark:#80A665"> test1</span><span style="--shiki-light:#999999;--shiki-dark:#666666">()</span></span>
 <span class="line"></span>
