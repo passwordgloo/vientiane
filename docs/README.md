@@ -16,7 +16,7 @@ config:
         value: 162
         offset: 14
     hero:
-      name: 万象课程
+      name: 万象代码
       tagline: null
       text: 一粒阳光照肺腑，森罗万象罗心胸
       actions:
@@ -28,40 +28,5 @@ config:
           theme: alt
           text: 🌺 花瓣
           link: https://huaban.com/user/flyigloo
-  -
-    type: image-text
-    title: 代码
-    description: 前端课程
-    image: /home/layout.svg
-    list:
-      -
-        title: C语言
-        description: C语言程序设计
-      -
-        title: Javascript
-        description: 前端常用语言
-  -
-    type: text-image
-    title: UI设计
-    description: 涵盖平面设计、UI设计、动画设计
-    image: /home/ui.svg
-    list:
-      -
-        title: PPT
-        description: 从0️⃣开始学习PPT
-      -
-        title: Photoshop
-        description: 修图专用软件
-      -
-        title: Ai
-        description: 矢量绘图软件
-      -
-        title: C4D
-        description: 三维建模软件
-  -
-    type: profile
-    name: igloo
-    description: 等风来，不如追风去
-    avatar: /home/avatar.png
 ---
 
