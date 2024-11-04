@@ -1,3 +1,16 @@
 import comp from "/Users/liuguanglu/vientiane/docs/.vuepress/.temp/pages/article/2hykm2o5/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/2hykm2o5/\",\"title\":\"ATM机器\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"ATM机器\",\"author\":\"清风\",\"createTime\":\"2024/07/16 23:04:24\",\"permalink\":\"/article/2hykm2o5/\",\"tags\":[\"js案例\"],\"head\":[[\"script\",{\"id\":\"check-dark-mode\"},\";(function () {const um= localStorage.getItem('vuepress-theme-appearance') || 'auto';const sm = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;if (um === 'dark' || (um !== 'light' && sm)) {document.documentElement.classList.add('dark');}})();\"],[\"script\",{\"id\":\"check-mac-os\"},\"document.documentElement.classList.toggle('mac', /Mac|iPhone|iPod|iPad/i.test(navigator.platform))\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://course.iglooblog.top/article/2hykm2o5/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Vientiane\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"ATM机器\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2024-09-22T14:46:17.000Z\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"清风\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"js案例\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2024-09-22T14:46:17.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"ATM机器\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2024-09-22T14:46:17.000Z\\\",\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"清风\\\"}]}\"]]},\"headers\":[],\"readingTime\":{\"minutes\":0.67,\"words\":202},\"git\":{\"createdTime\":1727016377000,\"updatedTime\":1727016377000,\"contributors\":[{\"name\":\"passwordgloo\",\"email\":\"passwordgloo@163.com\",\"commits\":1}]},\"filePathRelative\":\"案例/js/ATM机器.md\",\"categoryList\":[{\"id\":\"cf3e26\",\"sort\":10001,\"name\":\"案例\"},{\"id\":\"59d43d\",\"sort\":10004,\"name\":\"js\"}]}")
+const data = JSON.parse("{\"path\":\"/article/2hykm2o5/\",\"title\":\"ATM机器\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"ATM机器\",\"author\":\"清风\",\"createTime\":\"2024/07/16 23:04:24\",\"permalink\":\"/article/2hykm2o5/\",\"tags\":[\"js案例\"]},\"headers\":[],\"readingTime\":{\"minutes\":0.67,\"words\":202},\"filePathRelative\":\"案例/js/ATM机器.md\",\"categoryList\":[{\"id\":\"cf3e26\",\"sort\":10004,\"name\":\"案例\"},{\"id\":\"59d43d\",\"sort\":10007,\"name\":\"js\"}],\"bulletin\":false}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

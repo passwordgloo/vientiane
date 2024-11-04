@@ -1,3 +1,16 @@
 import comp from "/Users/liuguanglu/vientiane/docs/.vuepress/.temp/pages/article/a2gb1wc9/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/a2gb1wc9/\",\"title\":\"Git\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Git\",\"createTime\":\"2024/08/19 21:48:40\",\"permalink\":\"/article/a2gb1wc9/\",\"description\":\"提示 更多内容请访问Git配置说明 区域 工作区：处理工作的区域 暂存区：临时存放的区域 版本库：永久存档区域 回退 忽略 冲突 多个分支，修改同一文件\",\"head\":[[\"script\",{\"id\":\"check-dark-mode\"},\";(function () {const um= localStorage.getItem('vuepress-theme-appearance') || 'auto';const sm = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;if (um === 'dark' || (um !== 'light' && sm)) {document.documentElement.classList.add('dark');}})();\"],[\"script\",{\"id\":\"check-mac-os\"},\"document.documentElement.classList.toggle('mac', /Mac|iPhone|iPod|iPad/i.test(navigator.platform))\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://course.iglooblog.top/article/a2gb1wc9/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Vientiane\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Git\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"提示 更多内容请访问Git配置说明 区域 工作区：处理工作的区域 暂存区：临时存放的区域 版本库：永久存档区域 回退 忽略 冲突 多个分支，修改同一文件\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2024-09-22T14:46:17.000Z\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2024-09-22T14:46:17.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"Git\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2024-09-22T14:46:17.000Z\\\",\\\"author\\\":[]}\"]]},\"headers\":[{\"level\":2,\"title\":\"区域\",\"slug\":\"区域\",\"link\":\"#区域\",\"children\":[]},{\"level\":2,\"title\":\"回退\",\"slug\":\"回退\",\"link\":\"#回退\",\"children\":[]},{\"level\":2,\"title\":\"忽略\",\"slug\":\"忽略\",\"link\":\"#忽略\",\"children\":[]},{\"level\":2,\"title\":\"冲突\",\"slug\":\"冲突\",\"link\":\"#冲突\",\"children\":[]}],\"readingTime\":{\"minutes\":0.38,\"words\":115},\"git\":{\"createdTime\":1727016377000,\"updatedTime\":1727016377000,\"contributors\":[{\"name\":\"passwordgloo\",\"email\":\"passwordgloo@163.com\",\"commits\":1}]},\"autoDesc\":true,\"filePathRelative\":\"Git.md\",\"categoryList\":[]}")
+const data = JSON.parse("{\"path\":\"/article/a2gb1wc9/\",\"title\":\"Git\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Git\",\"createTime\":\"2024/08/19 21:48:40\",\"permalink\":\"/article/a2gb1wc9/\"},\"headers\":[{\"level\":2,\"title\":\"区域\",\"slug\":\"区域\",\"link\":\"#区域\",\"children\":[]},{\"level\":2,\"title\":\"回退\",\"slug\":\"回退\",\"link\":\"#回退\",\"children\":[]},{\"level\":2,\"title\":\"忽略\",\"slug\":\"忽略\",\"link\":\"#忽略\",\"children\":[]},{\"level\":2,\"title\":\"冲突\",\"slug\":\"冲突\",\"link\":\"#冲突\",\"children\":[]}],\"readingTime\":{\"minutes\":0.38,\"words\":115},\"filePathRelative\":\"Git.md\",\"categoryList\":[],\"bulletin\":false}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

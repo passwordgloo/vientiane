@@ -31,10 +31,7 @@
 <h2 id="javascript-书写位置" tabindex="-1"><a class="header-anchor" href="#javascript-书写位置"><span>Javascript 书写位置</span></a></h2>
 <h3 id="内嵌式" tabindex="-1"><a class="header-anchor" href="#内嵌式"><span>内嵌式</span></a></h3>
 <Tabs id="61" :data='[{"id":"步骤"},{"id":"示例"}]'>
-<template #title0="{ value, isActive }">步骤</template>
-<template #title1="{ value, isActive }">示例</template>
-<template #tab0="{ value, isActive }">
-<div class="vp-steps"><ol>
+<template #title0="{ value, isActive }">步骤</template><template #title1="{ value, isActive }">示例</template><template #tab0="{ value, isActive }"><div class="vp-steps"><ol>
 <li>
 <p>步骤1</p>
 <p>要将js代码嵌入到html文件中</p>
@@ -48,15 +45,11 @@
 <p><code v-pre>script</code>标签的位置可以在任何地方 (推荐在 <code v-pre>head</code>标签中或者 <code v-pre>body</code>标签中)</p>
 </li>
 </ol>
-</div></template>
-<template #tab1="{ value, isActive }">
-<div class="language-js line-numbers-mode" data-ext="js" data-title="js"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">script</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span>
+</div></template><template #tab1="{ value, isActive }"><div class="language-js line-numbers-mode" data-ext="js" data-title="js"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">script</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span>
 <span class="line"><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE">  alert('预见你真好！')</span></span>
 <span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666"> &#x3C;/</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">script</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span></code></pre>
 
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template>
-</Tabs>
-<h3 id="外联式" tabindex="-1"><a class="header-anchor" href="#外联式"><span>外联式</span></a></h3>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template></Tabs><h3 id="外联式" tabindex="-1"><a class="header-anchor" href="#外联式"><span>外联式</span></a></h3>
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>
 <p>js外联式写法在网页中任何一个位置都都可以 (推荐head标签中或者body标签中)</p>
@@ -66,10 +59,7 @@
 <p>js中内嵌式写法和外联式写法不可以混合使用</p>
 </div>
 <Tabs id="109" :data='[{"id":"步骤"},{"id":"示例"}]'>
-<template #title0="{ value, isActive }">步骤</template>
-<template #title1="{ value, isActive }">示例</template>
-<template #tab0="{ value, isActive }">
-<div class="vp-steps"><ol>
+<template #title0="{ value, isActive }">步骤</template><template #title1="{ value, isActive }">示例</template><template #tab0="{ value, isActive }"><div class="vp-steps"><ol>
 <li>
 <p>步骤1</p>
 <p>先创建一个js文件  后缀名是 xxxx.js</p>
@@ -79,13 +69,9 @@
 <p>不能使用link标签引入js文件,使用script标签引入js文件</p>
 </li>
 </ol>
-</div></template>
-<template #tab1="{ value, isActive }">
-<div class="language-js line-numbers-mode" data-ext="js" data-title="js"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">script</span><span style="--shiki-light:#B07D48;--shiki-dark:#BD976A"> src</span><span style="--shiki-light:#999999;--shiki-dark:#666666">=</span><span style="--shiki-light:#B5695977;--shiki-dark:#C98A7D77">"</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D">src/dir/test.js</span><span style="--shiki-light:#B5695977;--shiki-dark:#C98A7D77">"</span><span style="--shiki-light:#999999;--shiki-dark:#666666">>&#x3C;/</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">script</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span></code></pre>
+</div></template><template #tab1="{ value, isActive }"><div class="language-js line-numbers-mode" data-ext="js" data-title="js"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">script</span><span style="--shiki-light:#B07D48;--shiki-dark:#BD976A"> src</span><span style="--shiki-light:#999999;--shiki-dark:#666666">=</span><span style="--shiki-light:#B5695977;--shiki-dark:#C98A7D77">"</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D">src/dir/test.js</span><span style="--shiki-light:#B5695977;--shiki-dark:#C98A7D77">"</span><span style="--shiki-light:#999999;--shiki-dark:#666666">>&#x3C;/</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">script</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span></code></pre>
 
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div></template>
-</Tabs>
-<h3 id="行内式" tabindex="-1"><a class="header-anchor" href="#行内式"><span>行内式</span></a></h3>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div></template></Tabs><h3 id="行内式" tabindex="-1"><a class="header-anchor" href="#行内式"><span>行内式</span></a></h3>
 <div class="hint-container caution">
 <p class="hint-container-title">警告</p>
 <p>不推荐使用，vue喜欢用</p>

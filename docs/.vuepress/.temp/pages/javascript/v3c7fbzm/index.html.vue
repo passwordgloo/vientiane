@@ -214,17 +214,12 @@
 <h2 id="匿名函数" tabindex="-1"><a class="header-anchor" href="#匿名函数"><span>匿名函数</span></a></h2>
 <p>字面意思，没有名字的函数</p>
 <Tabs id="255" :data='[{"id":"变量调用匿名函数"},{"id":"自调用函数"}]' tab-id="调用匿名函数">
-<template #title0="{ value, isActive }">变量调用匿名函数</template>
-<template #title1="{ value, isActive }">自调用函数</template>
-<template #tab0="{ value, isActive }">
-<div class="language-js line-numbers-mode" data-ext="js" data-title="js"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#AB5959;--shiki-dark:#CB7676">let</span><span style="--shiki-light:#59873A;--shiki-dark:#80A665"> fn</span><span style="--shiki-light:#999999;--shiki-dark:#666666"> =</span><span style="--shiki-light:#AB5959;--shiki-dark:#CB7676"> function</span><span style="--shiki-light:#999999;--shiki-dark:#666666">(){</span></span>
+<template #title0="{ value, isActive }">变量调用匿名函数</template><template #title1="{ value, isActive }">自调用函数</template><template #tab0="{ value, isActive }"><div class="language-js line-numbers-mode" data-ext="js" data-title="js"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#AB5959;--shiki-dark:#CB7676">let</span><span style="--shiki-light:#59873A;--shiki-dark:#80A665"> fn</span><span style="--shiki-light:#999999;--shiki-dark:#666666"> =</span><span style="--shiki-light:#AB5959;--shiki-dark:#CB7676"> function</span><span style="--shiki-light:#999999;--shiki-dark:#666666">(){</span></span>
 <span class="line"><span style="--shiki-light:#B07D48;--shiki-dark:#BD976A">    console</span><span style="--shiki-light:#999999;--shiki-dark:#666666">.</span><span style="--shiki-light:#59873A;--shiki-dark:#80A665">log</span><span style="--shiki-light:#999999;--shiki-dark:#666666">(</span><span style="--shiki-light:#B07D48;--shiki-dark:#BD976A">test</span><span style="--shiki-light:#999999;--shiki-dark:#666666">);</span></span>
 <span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">}</span></span>
 <span class="line"><span style="--shiki-light:#59873A;--shiki-dark:#80A665">fn</span><span style="--shiki-light:#999999;--shiki-dark:#666666">();</span></span></code></pre>
 
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template>
-<template #tab1="{ value, isActive }">
-<div class="hint-container warning">
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template><template #tab1="{ value, isActive }"><div class="hint-container warning">
 <p class="hint-container-title">注意</p>
 <p>必须在后面写分号！！！</p>
 </div>
@@ -232,8 +227,6 @@
 <span class="line"><span style="--shiki-light:#A0ADA0;--shiki-dark:#758575DD">    //Your code</span></span>
 <span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">})();</span></span></code></pre>
 
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template>
-</Tabs>
-</div></template>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template></Tabs></div></template>
 
 

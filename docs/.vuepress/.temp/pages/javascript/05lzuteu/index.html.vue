@@ -32,7 +32,7 @@ a \%= b\Leftrightarrow a = a\%b
 <p><code v-pre>=</code> <code v-pre>=</code> <code v-pre>=</code> 全等于（值和数据类型一致）</p>
 <p><code v-pre>!</code> <code v-pre>=</code> 不等于</p>
 <div class="hint-container caution">
-<p class="hint-container-title">判断值相等，坚决*不能*用一个 `=`</p>
+<p class="hint-container-title">判断值相等，坚决<em>不能</em>用一个 <code v-pre>=</code></p>
 <p>宽松写法<code v-pre>=</code> <code v-pre>=</code></p>
 <p>严谨写法<code v-pre>=</code> <code v-pre>=</code> <code v-pre>=</code>（推荐）</p>
 </div>
@@ -120,7 +120,7 @@ a \%= b\Leftrightarrow a = a\%b
 
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><img src="/js/over2.png" alt=""></p>
 <div class="hint-container tip">
-<p class="hint-container-title">||与&&同时出现</p>
+<p class="hint-container-title">||与&amp;&amp;同时出现</p>
 <p>先计算&amp;&amp;最后计算||</p>
 <div class="language-js line-numbers-mode" data-ext="js" data-title="js"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#B07D48;--shiki-dark:#BD976A">console</span><span style="--shiki-light:#999999;--shiki-dark:#666666">.</span><span style="--shiki-light:#59873A;--shiki-dark:#80A665">log</span><span style="--shiki-light:#999999;--shiki-dark:#666666">(</span><span style="--shiki-light:#2F798A;--shiki-dark:#4C9A91">0</span><span style="--shiki-light:#AB5959;--shiki-dark:#CB7676"> &#x26;&#x26;</span><span style="--shiki-light:#2F798A;--shiki-dark:#4C9A91"> 1</span><span style="--shiki-light:#AB5959;--shiki-dark:#CB7676"> ||</span><span style="--shiki-light:#2F798A;--shiki-dark:#4C9A91"> 2</span><span style="--shiki-light:#999999;--shiki-dark:#666666">);</span><span style="--shiki-light:#A0ADA0;--shiki-dark:#758575DD"> //值为2</span></span></code></pre>
 

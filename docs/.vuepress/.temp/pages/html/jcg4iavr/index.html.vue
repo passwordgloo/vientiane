@@ -92,7 +92,7 @@
 <p class="hint-container-title">提示</p>
 <p>Vscode中使用<code v-pre>Ctrl+D</code>多选</p>
 </div>
-<CodeDemo id="code-demo-136" type="normal" code="eJyrVsooyc1RslKyyTC0e7Kj4fmu5c8WtL9cNMNGHygQk2eTYWT3ZFcPsrARWNgYqLoTWdgYLGxi93T2bGRhE7CwKdCQKcjCpmBhM7unrWuRhc2Awkq1AHWdSec=">
+<p>::: normal-demo</p>
 <div class="language-html line-numbers-mode" data-ext="html" data-title="html"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">h1</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE">一级标题</span><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;/</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">h1</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span>
 <span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">h2</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE">二级标题</span><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;/</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">h2</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span>
 <span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">h3</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE">三级标题</span><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;/</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">h3</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span>
@@ -100,7 +100,7 @@
 <span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">h5</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE">五级标题</span><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;/</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">h5</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span>
 <span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">h6</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE">六级标题</span><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;/</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">h6</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span></code></pre>
 
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></CodeDemo>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>:::</p>
 <h3 id="换行和水平线标签" tabindex="-1"><a class="header-anchor" href="#换行和水平线标签"><span>换行和水平线标签</span></a></h3>
 <div class="language-html line-numbers-mode" data-ext="html" data-title="html"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">br</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span>
 <span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">hr</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE"> //水平线</span></span></code></pre>
@@ -110,13 +110,13 @@
 <p class="hint-container-title">Emmet语法</p>
 <p>输入<code v-pre>p</code></p>
 </div>
-<CodeDemo id="code-demo-151" type="normal" code="eJztVMtu2lAQ/RWLXRdV1G2FkLLusttu0peoRANClbqoKrlJiKFgDKrrGAqKSaBQUmIHKBjblH8Jd+baK36hc2spfWyzDJu7OHPunHNmpHmXSL95nUk8TCTTD1LhqoGmjYbCLyy0lOjMTO4Q/GQ/mc6LN5eKzBWonXDaxnJpExTxSINuH4rfNkFz99leLvcik9mT7oE6wROLBVPoaVArgn61lg+k5NN8SpKgMAt/zNGrgWaHqyV6dqhMmDtirsG9IW8e4ecGC5rR6YQtapugAstPeDL7DwdtyPwe8zw4d9AtkIBgLmbMVcHTuT4QnMaAVIkfndV512M/y2RS+jvAWv4I6iFzq/SC7a/l8i3ibXNtc21z3dFcyZ1cfB+v5RZf+dT3Wm6LU1pRwDmG+Zj7Gmj1sDMgMa5fMd8gExjoxBQWRxX8MkZrgeplqAxhLsDovIpWECkqGk7MFF4rBSx/j0HoXIS2SiAPDPpOpnnVgdaA5LBVEpGcOppVNE+JEx0uqRR7i9VjXSoRE43Rn6o74sMP3JrGTkR/vyHWdDkD9yu2e8RnrozW/MYkSYf943/m9duBzPsqHoxZ0KVlx903Qek+zW9XevRq/7mUfSk9zubz2bc3M0y8/wWKfoC+">
+<p>::: normal-demo</p>
 <div class="language-html line-numbers-mode" data-ext="html" data-title="html"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">h1</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE">这是文章标题</span><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;/</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">h1</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span>
 <span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">hr</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span>
 <span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">p</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE">阿卡贝拉（意大利：Acappella )即无伴奏合唱。 </span><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">br</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE">  其起源可追溯至中世纪的教会音乐，当时的教会音乐只以人声清唱，并不应用乐器。音频示例： 阿卡贝拉《千与千寻》阿卡贝拉（意大利：Acappella )即无伴奏合唱。其起源可追溯至中世纪的教会音乐，当时的教会音乐只以人声清唱，并不应用乐器。音频示例： 阿卡贝拉《千与千寻》阿卡贝拉（意大利：Acappella )即无伴奏合唱。其起源可追溯至中世纪的教会音乐，当时的教会音乐只以人声清唱，并不应用乐器。音频示例： 阿卡贝拉《千与千寻》阿卡贝拉（意大利：Acappella )即无伴奏合唱。其起源可追溯至中世纪的教会音乐，当时的教会音乐只以人声清唱，并不应用乐器。音频示例： 阿卡贝拉《千与千寻》阿卡贝拉（意大利：Acappella )即无伴奏合唱。其起源可追溯至中世纪的教会音乐，当时的教会音乐只以人声清唱，并不应用乐器。音频示例： 阿卡贝拉《千与千寻》阿卡贝拉（意大利：Acappella )即无伴奏合唱。其起源可追溯至中世纪的教会音乐，当时的教会音乐只以人声清唱，并不应用乐器。音频示例： 阿卡贝拉《千与千寻》</span><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;/</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">p</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span>
 <span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">p</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE">“翻唱”是指将已经发表并由他人演唱的歌曲根据自己的风格重新演唱，包括重新填词，编曲。现在已有不少明星，都在翻唱他人的歌，不断在翻唱中突破自己，给大家带来不一样的风格。视频示例： 有一种悲伤（翻唱）-《A Kind of Sorrow》</span><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;/</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">p</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span></code></pre>
 
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></CodeDemo>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>:::</p>
 <h3 id="文本格式化" tabindex="-1"><a class="header-anchor" href="#文本格式化"><span>文本格式化</span></a></h3>
 <table>
 <thead>
@@ -175,30 +175,22 @@
 </tbody>
 </table>
 <h3 id="路径" tabindex="-1"><a class="header-anchor" href="#路径"><span>路径</span></a></h3>
-<CodeTabs id="257" :data='[{"id":"绝对路径"},{"id":"相对路径"}]'>
-<template #title0="{ value, isActive }">绝对路径</template>
-<template #title1="{ value, isActive }">相对路径</template>
-<template #tab0="{ value, isActive }">
-<div class="language-text line-numbers-mode" data-ext="text" data-title="text"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span>具体地址，如`C:\Program Files\7-Zip\7-Zip.exe`</span></span></code></pre>
+<CodeTabs id="265" :data='[{"id":"绝对路径"},{"id":"相对路径"}]'><template #title0="{ value, isActive }"><span>绝对路径</span></template><template #title1="{ value, isActive }"><span>相对路径</span></template><template #tab0="{ value, isActive }"><div class="language-text line-numbers-mode" data-ext="text" data-title="text"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span>具体地址，如`C:\Program Files\7-Zip\7-Zip.exe`</span></span></code></pre>
 
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div></template>
-<template #tab1="{ value, isActive }">
-<div class="language-bash line-numbers-mode" data-ext="bash" data-title="bash"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#59873A;--shiki-dark:#80A665">./</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D">   //本级目录</span></span>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div></template><template #tab1="{ value, isActive }"><div class="language-bash line-numbers-mode" data-ext="bash" data-title="bash"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#59873A;--shiki-dark:#80A665">./</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D">   //本级目录</span></span>
 <span class="line"><span style="--shiki-light:#998418;--shiki-dark:#B8A965">.</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D">./</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D">  //上级目录</span></span>
 <span class="line"><span style="--shiki-light:#AB5959;--shiki-dark:#CB7676">~</span><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE">/   //根目录</span></span></code></pre>
 
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template>
-</CodeTabs>
-<h3 id="媒体" tabindex="-1"><a class="header-anchor" href="#媒体"><span>媒体</span></a></h3>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></template></CodeTabs><h3 id="媒体" tabindex="-1"><a class="header-anchor" href="#媒体"><span>媒体</span></a></h3>
 <h4 id="图片" tabindex="-1"><a class="header-anchor" href="#图片"><span>图片</span></a></h4>
 <div class="hint-container info">
 <p class="hint-container-title">Emmet 语法</p>
 <p><code v-pre>img</code></p>
 </div>
-<CodeDemo id="code-demo-276" type="normal" code="eJyrVsooyc1RslKyycxNVyguSraNUdIHCemn5KfrpWemxSgpJOaUAEVjlOxi8pRqAZJJD90=">
+<p>::: normal-demo</p>
 <div class="language-html line-numbers-mode" data-ext="html" data-title="html"><button class="copy" title="复制代码" data-copied="已复制"></button><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" v-pre=""><code><span class="line"><span style="--shiki-light:#999999;--shiki-dark:#666666">&#x3C;</span><span style="--shiki-light:#1E754F;--shiki-dark:#4D9375">img</span><span style="--shiki-light:#B07D48;--shiki-dark:#BD976A"> src</span><span style="--shiki-light:#999999;--shiki-dark:#666666">=</span><span style="--shiki-light:#B5695977;--shiki-dark:#C98A7D77">"</span><span style="--shiki-light:#B56959;--shiki-dark:#C98A7D">/html/dog.gif</span><span style="--shiki-light:#B5695977;--shiki-dark:#C98A7D77">"</span><span style="--shiki-light:#B07D48;--shiki-dark:#BD976A"> alt</span><span style="--shiki-light:#999999;--shiki-dark:#666666">=</span><span style="--shiki-light:#B5695977;--shiki-dark:#C98A7D77">""</span><span style="--shiki-light:#999999;--shiki-dark:#666666">></span></span></code></pre>
 
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div></CodeDemo>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>:::</p>
 <p><code v-pre>alt</code>：方便视觉障碍者或图片无法加载</p>
 <h4 id="视频" tabindex="-1"><a class="header-anchor" href="#视频"><span>视频</span></a></h4>
 <div class="hint-container info">

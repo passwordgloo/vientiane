@@ -37,7 +37,7 @@ export const navbar = defineNavbarConfig([
             { text: 'vba', link: '/vba/gbwe56po/' },
         ]
     },
-    { text: '归档', link: '/blog/archives/', icon: 'solar:bookmark-opened-bold-duotone' },
+    { text: '博客', link: '/blog/', icon: 'solar:bookmark-opened-bold-duotone' },
     { text: '友链', link: '/friends/', icon: 'solar:people-nearby-bold-duotone' },
-    { text: `${version}`, icon: 'codicon:versions', link: '/CHANGELOG.md' },
+    // { text: `${version}`, icon: 'codicon:versions', link: '/CHANGELOG.md' },
 ])

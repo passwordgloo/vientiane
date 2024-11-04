@@ -1,11 +1,9 @@
-import { enhanceTwoslash } from '/Users/liuguanglu/vientiane/node_modules/.pnpm/@vuepress-plume+plugin-shikiji@1.0.0-rc.96_typescript@5.5.4_vue@3.5.3_typescript@5.5.4__vuepr_l7fputsmk36so7lbbnkey3ehey/node_modules/@vuepress-plume/plugin-shikiji/lib/client/composables/twoslash.js'
-import { useCopyCode } from '/Users/liuguanglu/vientiane/node_modules/.pnpm/@vuepress-plume+plugin-shikiji@1.0.0-rc.96_typescript@5.5.4_vue@3.5.3_typescript@5.5.4__vuepr_l7fputsmk36so7lbbnkey3ehey/node_modules/@vuepress-plume/plugin-shikiji/lib/client/composables/copy-code.js'
-import { useCollapsedLines } from '/Users/liuguanglu/vientiane/node_modules/.pnpm/@vuepress-plume+plugin-shikiji@1.0.0-rc.96_typescript@5.5.4_vue@3.5.3_typescript@5.5.4__vuepr_l7fputsmk36so7lbbnkey3ehey/node_modules/@vuepress-plume/plugin-shikiji/lib/client/composables/collapsed-lines.js'
+
+import { useCopyCode } from '/Users/liuguanglu/vientiane/node_modules/.pnpm/@vuepress-plume+plugin-shikiji@1.0.0-rc.114_typescript@5.6.3_vue@3.5.12_typescript@5.6.3__vue_yd3ulsixnxxuk7lrrmoemuhs44/node_modules/@vuepress-plume/plugin-shikiji/lib/client/composables/copy-code.js'
+import { useCollapsedLines } from '/Users/liuguanglu/vientiane/node_modules/.pnpm/@vuepress-plume+plugin-shikiji@1.0.0-rc.114_typescript@5.6.3_vue@3.5.12_typescript@5.6.3__vue_yd3ulsixnxxuk7lrrmoemuhs44/node_modules/@vuepress-plume/plugin-shikiji/lib/client/composables/collapsed-lines.js'
 
 export default {
-  enhance({ app }) {
-    enhanceTwoslash(app)
-  },
+  
   setup() {
     useCopyCode({
       selector: __CC_SELECTOR__,

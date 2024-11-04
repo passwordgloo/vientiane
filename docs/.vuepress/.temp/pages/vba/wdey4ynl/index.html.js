@@ -1,3 +1,16 @@
 import comp from "/Users/liuguanglu/vientiane/docs/.vuepress/.temp/pages/vba/wdey4ynl/index.html.vue"
-const data = JSON.parse("{\"path\":\"/vba/wdey4ynl/\",\"title\":\"在VBA中使用公式\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"在VBA中使用公式\",\"author\":\"枯树生花\",\"createTime\":\"2024/07/07 10:01:03\",\"permalink\":\"/vba/wdey4ynl/\",\"description\":\"工作表函数 VBA函数\",\"head\":[[\"script\",{\"id\":\"check-dark-mode\"},\";(function () {const um= localStorage.getItem('vuepress-theme-appearance') || 'auto';const sm = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;if (um === 'dark' || (um !== 'light' && sm)) {document.documentElement.classList.add('dark');}})();\"],[\"script\",{\"id\":\"check-mac-os\"},\"document.documentElement.classList.toggle('mac', /Mac|iPhone|iPod|iPad/i.test(navigator.platform))\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://course.iglooblog.top/vba/wdey4ynl/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Vientiane\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"在VBA中使用公式\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"工作表函数 VBA函数\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2024-09-22T14:46:17.000Z\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"枯树生花\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2024-09-22T14:46:17.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"在VBA中使用公式\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2024-09-22T14:46:17.000Z\\\",\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"枯树生花\\\"}]}\"]]},\"headers\":[{\"level\":2,\"title\":\"工作表函数\",\"slug\":\"工作表函数\",\"link\":\"#工作表函数\",\"children\":[]},{\"level\":2,\"title\":\"VBA函数\",\"slug\":\"vba函数\",\"link\":\"#vba函数\",\"children\":[]}],\"readingTime\":{\"minutes\":0.71,\"words\":212},\"git\":{\"createdTime\":1727016377000,\"updatedTime\":1727016377000,\"contributors\":[{\"name\":\"passwordgloo\",\"email\":\"passwordgloo@163.com\",\"commits\":1}]},\"autoDesc\":true,\"filePathRelative\":\"vba/在VBA中使用公式.md\",\"categoryList\":[{\"id\":\"0e47ae\",\"sort\":10000,\"name\":\"vba\"}]}")
+const data = JSON.parse("{\"path\":\"/vba/wdey4ynl/\",\"title\":\"在VBA中使用公式\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"在VBA中使用公式\",\"author\":\"枯树生花\",\"createTime\":\"2024/07/07 10:01:03\",\"permalink\":\"/vba/wdey4ynl/\"},\"headers\":[{\"level\":2,\"title\":\"工作表函数\",\"slug\":\"工作表函数\",\"link\":\"#工作表函数\",\"children\":[]},{\"level\":2,\"title\":\"VBA函数\",\"slug\":\"vba函数\",\"link\":\"#vba函数\",\"children\":[]}],\"readingTime\":{\"minutes\":0.71,\"words\":212},\"filePathRelative\":\"vba/在VBA中使用公式.md\",\"categoryList\":[{\"id\":\"0e47ae\",\"sort\":10001,\"name\":\"vba\"}],\"bulletin\":false}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

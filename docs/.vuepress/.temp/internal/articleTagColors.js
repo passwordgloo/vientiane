@@ -1,2 +1,15 @@
 import './articleTagColors.css'
-export const articleTagColors = {"html案例":"zi1c","css案例":"zi1c","css布局":"jipw","导航":"yu4b","js案例":"zi1c","循环":"b1ph","对象":"op5f","排序":"z33c","数组":"op5f","流程控制":"0o13","Node规范":"0o13"}
+export const articleTagColors = {"预览":"tvod","组件":"grxj","markdown":"nuaz","css案例":"tvod","css布局":"n8zg","导航":"23py","html案例":"tvod","js案例":"tvod","循环":"2zlf","对象":"w4y5","排序":"qkc2","数组":"w4y5","流程控制":"iguh","Node规范":"iguh"}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateArticleTagColors) {
+    __VUE_HMR_RUNTIME__.updateArticleTagColors(articleTagColors)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ articleTagColors }) => {
+    __VUE_HMR_RUNTIME__.updateArticleTagColors(articleTagColors)
+  })
+}

@@ -8,15 +8,15 @@ import { notes } from './notes'
 export default defineThemeConfig({
   logo: '/home/logo.svg',
   // your git repo url
-  docsRepo: 'https://bitbucket.org:vientiane_course/course.git',
+  docsRepo: '',
   docsDir: 'docs',
 
   appearance: true,
 
   profile: {
     avatar: '/home/avatar.png',
-    name: 'igloo',
-    description: 'online course',
+    name: 'flyigloo',
+    description: 'online front-end notebook',
     // circle: true,
     // location: '',
     // organization: '',
@@ -30,5 +30,5 @@ export default defineThemeConfig({
     { icon: 'bilibili', link: 'https://space.bilibili.com/394017572' }
   ],
   navbarSocialInclude: ['bilibili'],
-  footer: { copyright: 'Copyright © 2024-present passwordgloo' },
+  footer: { copyright: 'Copyright © 2024-present passwordgloo' }
 })

@@ -1,3 +1,16 @@
 import comp from "/Users/liuguanglu/vientiane/docs/.vuepress/.temp/pages/article/zg10ay7j/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/zg10ay7j/\",\"title\":\"商品的SKU处理\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"商品的SKU处理\",\"author\":\"igloo\",\"createTime\":\"2024/07/21 11:50:43\",\"permalink\":\"/article/zg10ay7j/\",\"tags\":[\"js案例\",\"对象\"],\"head\":[[\"script\",{\"id\":\"check-dark-mode\"},\";(function () {const um= localStorage.getItem('vuepress-theme-appearance') || 'auto';const sm = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;if (um === 'dark' || (um !== 'light' && sm)) {document.documentElement.classList.add('dark');}})();\"],[\"script\",{\"id\":\"check-mac-os\"},\"document.documentElement.classList.toggle('mac', /Mac|iPhone|iPod|iPad/i.test(navigator.platform))\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://course.iglooblog.top/article/zg10ay7j/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Vientiane\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"商品的SKU处理\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2024-09-22T14:46:17.000Z\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"igloo\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"js案例\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"对象\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2024-09-22T14:46:17.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"商品的SKU处理\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2024-09-22T14:46:17.000Z\\\",\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"igloo\\\"}]}\"]]},\"headers\":[],\"readingTime\":{\"minutes\":0.23,\"words\":68},\"git\":{\"createdTime\":1727016377000,\"updatedTime\":1727016377000,\"contributors\":[{\"name\":\"passwordgloo\",\"email\":\"passwordgloo@163.com\",\"commits\":1}]},\"filePathRelative\":\"案例/js/商品的SKU处理.md\",\"categoryList\":[{\"id\":\"cf3e26\",\"sort\":10001,\"name\":\"案例\"},{\"id\":\"59d43d\",\"sort\":10004,\"name\":\"js\"}]}")
+const data = JSON.parse("{\"path\":\"/article/zg10ay7j/\",\"title\":\"商品的SKU处理\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"商品的SKU处理\",\"author\":\"igloo\",\"createTime\":\"2024/07/21 11:50:43\",\"permalink\":\"/article/zg10ay7j/\",\"tags\":[\"js案例\",\"对象\"]},\"headers\":[],\"readingTime\":{\"minutes\":0.23,\"words\":68},\"filePathRelative\":\"案例/js/商品的SKU处理.md\",\"categoryList\":[{\"id\":\"cf3e26\",\"sort\":10004,\"name\":\"案例\"},{\"id\":\"59d43d\",\"sort\":10007,\"name\":\"js\"}],\"bulletin\":false}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

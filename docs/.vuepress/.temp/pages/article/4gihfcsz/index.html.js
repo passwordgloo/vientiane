@@ -1,3 +1,16 @@
 import comp from "/Users/liuguanglu/vientiane/docs/.vuepress/.temp/pages/article/4gihfcsz/index.html.vue"
-const data = JSON.parse("{\"path\":\"/article/4gihfcsz/\",\"title\":\"Fs模块\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Fs模块\",\"createTime\":\"2024/09/07 20:34:56\",\"permalink\":\"/article/4gihfcsz/\",\"description\":\"注意 重复写入会自动覆盖掉之前的内容 提示 回调函数写法请参考 ```js import fs from 'fs' const filepath = '/path/file' //判断文件存在 fs.access(filepath,(err) =>{ if(err){ console.log('file no exist') }else{ } })\",\"head\":[[\"script\",{\"id\":\"check-dark-mode\"},\";(function () {const um= localStorage.getItem('vuepress-theme-appearance') || 'auto';const sm = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;if (um === 'dark' || (um !== 'light' && sm)) {document.documentElement.classList.add('dark');}})();\"],[\"script\",{\"id\":\"check-mac-os\"},\"document.documentElement.classList.toggle('mac', /Mac|iPhone|iPod|iPad/i.test(navigator.platform))\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://course.iglooblog.top/article/4gihfcsz/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Vientiane\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Fs模块\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"注意 重复写入会自动覆盖掉之前的内容 提示 回调函数写法请参考 ```js import fs from 'fs' const filepath = '/path/file' //判断文件存在 fs.access(filepath,(err) =>{ if(err){ console.log('file no exist') }else{ } })\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2024-09-22T14:46:17.000Z\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2024-09-22T14:46:17.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"Fs模块\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2024-09-22T14:46:17.000Z\\\",\\\"author\\\":[]}\"]]},\"headers\":[],\"readingTime\":{\"minutes\":0.4,\"words\":120},\"git\":{\"createdTime\":1727016377000,\"updatedTime\":1727016377000,\"contributors\":[{\"name\":\"passwordgloo\",\"email\":\"passwordgloo@163.com\",\"commits\":1}]},\"autoDesc\":true,\"filePathRelative\":\"案例/node/Fs模块.md\",\"categoryList\":[{\"id\":\"cf3e26\",\"sort\":10001,\"name\":\"案例\"},{\"id\":\"089af6\",\"sort\":10005,\"name\":\"node\"}]}")
+const data = JSON.parse("{\"path\":\"/article/4gihfcsz/\",\"title\":\"Fs模块\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Fs模块\",\"createTime\":\"2024/09/07 20:34:56\",\"permalink\":\"/article/4gihfcsz/\"},\"headers\":[],\"readingTime\":{\"minutes\":0.4,\"words\":120},\"filePathRelative\":\"案例/node/Fs模块.md\",\"categoryList\":[{\"id\":\"cf3e26\",\"sort\":10004,\"name\":\"案例\"},{\"id\":\"089af6\",\"sort\":10008,\"name\":\"node\"}],\"bulletin\":false}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
