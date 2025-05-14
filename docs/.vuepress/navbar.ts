@@ -14,6 +14,17 @@ export const navbar = defineNavbarConfig([
     ]
   },
   {
+    text: '办公',
+    icon: 'hugeicons:wps-office-rectangle',
+    items: [
+        {
+            text: 'PPT',
+            link: '/ppt/',
+            icon: 'vscode-icons:file-type-powerpoint2'
+        }
+    ]
+},
+  {
     text: '博客',
     link: '/blog/',
     icon: 'solar:bookmark-opened-bold-duotone'

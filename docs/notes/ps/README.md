@@ -1,12 +1,6 @@
 ---
 title: PS基本概述
 createTime: 2024/11/28 16:21:28
-cover: https://file.iglooblog.top/cover/psps.webp
-coverStyle:
-  layout: odd-left
-  ratio: 0.67
-  width: 300
-  compact: true
 permalink: /ps/
 ---
 

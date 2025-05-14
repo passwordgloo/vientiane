@@ -12,8 +12,20 @@ const ps = defineNoteConfig({
   ]
 })
 
+const ppt = defineNoteConfig({
+  dir: 'ppt',
+  link: '/ppt',
+  sidebar: [
+    {
+      text: 'PPT学习指南',
+      collapsed: false,
+      items: 'auto'
+    }
+  ]
+})
+
 export const notes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [ps],
+  notes: [ps,ppt],
 })
