@@ -2,7 +2,8 @@
     "$schema": "https://cdn.jsdelivr.net/gh/Zhengqbbb/cz-git@1.11.0/docs/public/schema/cz-git.json",
     "scopes": [
         "PS",
-        "PPT"
+        "PPT",
+        "social"
     ],
     "allowBreakingChanges": ["docs","fix","style"]
 }

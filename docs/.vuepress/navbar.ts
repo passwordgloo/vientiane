@@ -17,13 +17,24 @@ export const navbar = defineNavbarConfig([
     text: '办公',
     icon: 'hugeicons:wps-office-rectangle',
     items: [
-        {
-            text: 'PPT',
-            link: '/ppt/',
-            icon: 'vscode-icons:file-type-powerpoint2'
-        }
+      {
+        text: 'PPT',
+        link: '/ppt/',
+        icon: 'vscode-icons:file-type-powerpoint2'
+      }
     ]
-},
+  },
+  {
+    text: '考试',
+    icon: 'solar:bookmark-opened-bold-duotone',
+    items: [
+      {
+        text: '社工',
+        icon: 'vscode-icons:file-type-flareact',
+        link: '/social/'
+      }
+    ]
+  },
   {
     text: '博客',
     link: '/blog/',
