@@ -13,4 +13,7 @@ permalink: /social/
 
 <CardGrid>
   <LinkCard title="综合能力" href="/social/hxhsy8vp/" />
+
+<LinkCard title="法律法规" href="/social/u843vr60/" />
+
 </CardGrid>
