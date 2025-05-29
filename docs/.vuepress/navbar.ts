@@ -25,6 +25,11 @@ export const navbar = defineNavbarConfig([
     ]
   },
   {
+    text: 'HTML',
+    link:'/html/',
+    icon: 'vscode-icons:file-type-html',
+  },
+  {
     text: '考试',
     icon: 'solar:bookmark-opened-bold-duotone',
     items: [

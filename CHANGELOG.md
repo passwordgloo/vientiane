@@ -1,3 +1,17 @@
+## [0.0.4](https://github.com/passwordgloo/vientiane/compare/v0.0.2...v0.0.4) (2025-05-27)
+
+
+### Documentation
+
+* **social:** :memo: add Intermediate Comprehensive Ability Document ([9482ad4](https://github.com/passwordgloo/vientiane/commit/9482ad40c11266311c98e13c2a6d29d12609cf6c))
+
+
+### BREAKING CHANGES
+
+* **social:** 添加markmap思维导图插件
+
+
+
 ## 0.0.2 (2025-05-14)
 
 

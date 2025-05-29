@@ -24,6 +24,18 @@ const ppt = defineNoteConfig({
   ]
 })
 
+const html = defineNoteConfig({
+  dir: 'html',
+  link: '/html',
+  sidebar: [
+    {
+      text: 'HTML',
+      collapsed: false,
+      items: 'auto'
+    }
+  ]
+})
+
 const social = defineNoteConfig({
   dir: 'social',
   link: '/social',
@@ -39,5 +51,5 @@ const social = defineNoteConfig({
 export const notes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [ps,ppt,social],
+  notes: [ps,ppt,social,html],
 })
