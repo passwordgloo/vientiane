@@ -5,7 +5,7 @@ permalink: /html/
 ---
 ## Web标准
 
-W3C组织负责制定 Web 全球广域网标准，标准通常包含三个方面：
+W3C 组织负责制定 Web 全球广域网标准，标准通常包含三个方面：
 
 *[W3C]: World Wide Web Consortium
 
@@ -18,16 +18,6 @@ W3C组织负责制定 Web 全球广域网标准，标准通常包含三个方面
 *[CSS]: Cascading Style Sheets
 
 *[JS]: JavaScript
-
-## HTML兼容性
-
-现代浏览器通常都支持HTML
-
-@[caniuse{-2,1}](mdn-html_elements_a)
-
-XHTML是采用XML语法标准的HTML。
-
-@[caniuse{-2,1}](xhtml)
 
 ## 专有名词
 
