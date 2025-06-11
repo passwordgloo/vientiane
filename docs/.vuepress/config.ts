@@ -91,7 +91,7 @@ export default defineUserConfig({
     codeHighlighter: {
       //   twoslash: true, // 启用 twoslash
       //   whitespace: true, // 启用 空格/Tab 高亮
-      lineNumbers: true, // 启用行号
+        lineNumbers: false // 启用行号
     },
 
     /* 文章字数统计、阅读时间，设置为 false 则禁用 */
@@ -109,8 +109,7 @@ export default defineUserConfig({
       caniuse: true,      // 启用 caniuse 语法  @[caniuse](feature_name)
       codeTree:true,
       plot: true,         // 启用隐秘文本语法 !!xxxx!!
-      field: true,
-      //   field: true,        // 启用field容器，，用于描述字段信息，语法 ::: field，复合容器 :::: field-group
+      field: true,        // 启用field容器，，用于描述字段信息，语法 ::: field，复合容器 :::: field-group
       //   bilibili: true,     // 启用嵌入 bilibili视频 语法 @[bilibili](bid)
       //   youtube: true,      // 启用嵌入 youtube视频 语法 @[youtube](video_id)
       //   artPlayer: true,    // 启用嵌入 artPlayer 本地视频 语法 @[artPlayer](url)

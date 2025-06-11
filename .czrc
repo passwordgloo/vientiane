@@ -3,6 +3,7 @@
     "scopes": [
         "PS",
         "PPT",
+        "HTML",
         "social"
     ],
     "allowBreakingChanges": ["docs","fix","style"]
