@@ -1,7 +1,7 @@
 {
   "name": "vientiane-wiki",
   "type": "module",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "library and textbook",
   "packageManager": "pnpm@10.12.1",
   "pnpm": {

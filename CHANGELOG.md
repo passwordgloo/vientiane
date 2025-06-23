@@ -1,3 +1,34 @@
+## [0.0.7](https://github.com/passwordgloo/vientiane/compare/v0.0.2...v0.0.7) (2025-06-23)
+
+
+### Bug Fixes
+
+* **Readme:** :bug: 修改介绍 ([b5de64d](https://github.com/passwordgloo/vientiane/commit/b5de64d3a1ab6b3acc6b8852af5d0782c988736f)), closes [#3](https://github.com/passwordgloo/vientiane/issues/3)
+
+
+### Documentation
+
+* **HTML:** :memo: html patch 1.1 ([812a75a](https://github.com/passwordgloo/vientiane/commit/812a75afb3ccfe32b757c9de61604f9887a8f9c7))
+* **social:** :memo: add Intermediate Comprehensive Ability Document ([9482ad4](https://github.com/passwordgloo/vientiane/commit/9482ad40c11266311c98e13c2a6d29d12609cf6c))
+
+
+### Features
+
+* **theme:** :sparkles: 启用博客功能 ([386337b](https://github.com/passwordgloo/vientiane/commit/386337b1db3f43a6e70c99dc38eb5bb631ac14d7))
+
+
+### BREAKING CHANGES
+
+* **theme:** 增添css模块内容
+主页底部添加非ai创作logo
+重新设计友链样式
+导航栏、侧边栏修改
+* **HTML:** remove display line numbers in codebox
+add ps text article
+* **social:** 添加markmap思维导图插件
+
+
+
 ## [0.0.6](https://github.com/passwordgloo/vientiane/compare/v0.0.2...v0.0.6) (2025-06-11)
 
 
