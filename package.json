@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.6",
   "description": "library and textbook",
-  "packageManager": "pnpm@10.11.0",
+  "packageManager": "pnpm@10.12.1",
   "pnpm": {
     "onlyBuiltDependencies": [
       "@parcel/watcher",
@@ -29,10 +29,10 @@
     "conventional-changelog-cli": "^5.0.0",
     "czg": "^1.11.1",
     "http-server": "^14.1.1",
-    "sass-embedded": "^1.89.0",
+    "sass-embedded": "^1.89.2",
     "typescript": "^5.8.3",
-    "vue": "^3.5.15",
+    "vue": "^3.5.16",
     "vuepress": "2.0.0-rc.23",
-    "vuepress-theme-plume": "1.0.0-rc.152"
+    "vuepress-theme-plume": "1.0.0-rc.153"
   }
 }

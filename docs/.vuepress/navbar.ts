@@ -25,10 +25,24 @@ export const navbar = defineNavbarConfig([
     ]
   },
   {
-    text: 'HTML',
-    link:'/html/',
-    icon: 'vscode-icons:file-type-html',
+    text: '代码',
+    icon: 'solar:chat-square-code-bold',
+    items: [
+      {
+        text: 'HTML',
+        link:'/html/',
+        icon: 'vscode-icons:file-type-html',
+        badge: {type: 'danger', text: '待修复'}
+      },
+      {
+        text: 'CSS',
+        link:'/css/',
+        icon: 'vscode-icons:file-type-css2',
+        badge: {type: 'warning', text: '整理中'}
+      },
+    ]
   },
+
   {
     text: '考试',
     icon: 'solar:bookmark-opened-bold-duotone',

@@ -4,7 +4,8 @@
         "PS",
         "PPT",
         "HTML",
+        "CSS",
         "social"
     ],
-    "allowBreakingChanges": ["docs","fix","style"]
+    "allowBreakingChanges": ["docs","fix","feat"]
 }
