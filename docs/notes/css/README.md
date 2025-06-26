@@ -57,3 +57,18 @@ p {
 ```
 
 :::
+
+## 项目
+
+::: file-tree
+
+- images 存放固定使用的图片素材
+- upload 存放非固定使用的图片素材
+- iconfont 字体图标素材
+- css
+  - base.css 基础公共样式
+  - common.css 相同模块的重复样式
+  - index.css 首页css样式
+- index.html 首页
+
+:::

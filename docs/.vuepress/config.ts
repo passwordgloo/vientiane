@@ -108,9 +108,11 @@ export default defineUserConfig({
       annotation: true,   // 启用 annotation 语法  [+label]: content
       //   pdf: true,          // 启用 PDF 嵌入 @[pdf](/xxx.pdf)
       caniuse: true,      // 启用 caniuse 语法  @[caniuse](feature_name)
+      collapse: true,     // 启用折叠面板。支持expand/accordion
       codeTree:true,
       plot: true,         // 启用隐秘文本语法 !!xxxx!!
       field: true,        // 启用field容器，，用于描述字段信息，语法 ::: field，复合容器 :::: field-group
+      fileTree: true,     //启用文件树容器，支持simple/colored
       //   bilibili: true,     // 启用嵌入 bilibili视频 语法 @[bilibili](bid)
       //   youtube: true,      // 启用嵌入 youtube视频 语法 @[youtube](video_id)
       //   artPlayer: true,    // 启用嵌入 artPlayer 本地视频 语法 @[artPlayer](url)

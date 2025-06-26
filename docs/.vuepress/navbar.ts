@@ -32,7 +32,7 @@ export const navbar = defineNavbarConfig([
         text: 'HTML',
         link:'/html/',
         icon: 'vscode-icons:file-type-html',
-        badge: {type: 'danger', text: '待修复'}
+        // badge: {type: 'danger', text: '待修复'}
       },
       {
         text: 'CSS',
