@@ -7,10 +7,22 @@ export const navbar = defineNavbarConfig([
     icon: 'simple-icons:adobe',
     items: [
       {
-        text: 'PS',
+        text: '人工智能',
+        link: '/ai/',
+        icon: 'logos:anthropic-icon',
+        badge: {type: 'tip', text: '整理中'}
+      },
+      {
+        text: 'Photoshop',
         link: '/ps/',
         icon: 'logos:adobe-photoshop'
       },
+
+      // {
+      //   text: 'Illustrator',
+      //   link: '/ai/',
+      //   icon: 'logos:adobe-illustrator'
+      // },
     ]
   },
   {
@@ -38,7 +50,7 @@ export const navbar = defineNavbarConfig([
         text: 'CSS',
         link:'/css/',
         icon: 'vscode-icons:file-type-css2',
-        badge: {type: 'warning', text: '整理中'}
+        badge: {type: 'warning', text: '暂缓'}
       },
     ]
   },
