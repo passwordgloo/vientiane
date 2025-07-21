@@ -1,6 +1,6 @@
 # Vientiane Wiki
 
-![](https://img.shields.io/badge/Version-0.0.7-blueviolet?logo=github&amp;style=flat)&emsp;![](https://img.shields.io/github/created-at/passwordgloo/vientiane?logo=markdown)&emsp;![](https://img.shields.io/github/last-commit/passwordgloo/vientiane?logo=Git)
+![](https://img.shields.io/badge/Version-0.0.8-blueviolet?logo=github&amp;style=flat)&emsp;![](https://img.shields.io/github/created-at/passwordgloo/vientiane?logo=markdown)&emsp;![](https://img.shields.io/github/last-commit/passwordgloo/vientiane?logo=Git)
 ## 矩阵
 
 - [云帆导航](https://nav.iglooblog.top)
