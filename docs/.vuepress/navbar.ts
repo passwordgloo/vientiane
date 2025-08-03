@@ -9,7 +9,7 @@ export const navbar = defineNavbarConfig([
       {
         text: '人工智能',
         link: '/ai/',
-        icon: 'logos:anthropic-icon',
+        icon: 'svg-spinners:270-ring-with-bg',
         badge: {type: 'tip', text: '整理中'}
       },
       {

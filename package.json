@@ -1,7 +1,7 @@
 {
   "name": "vientiane-wiki",
   "type": "module",
-  "version": "0.0.9",
+  "version": "0.0.8",
   "description": "library and textbook",
   "packageManager": "pnpm@10.13.1",
   "pnpm": {
@@ -22,7 +22,7 @@
     "docs:preview": "http-server docs/.vuepress/dist",
     "vp-update": "pnpm dlx vp-update",
     "release": "conventional-changelog -p angular -i CHANGELOG.md -s",
-    "commit": "git add . && czg emoji"
+    "commit": "git add . && czg ai"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.24",

@@ -49,8 +49,6 @@ add ps text article
 add ps text article
 * **social:** 添加markmap思维导图插件
 
-
-
 ## [0.0.5](https://github.com/passwordgloo/vientiane/compare/v0.0.2...v0.0.5) (2025-06-07)
 
 
@@ -67,8 +65,6 @@ add ps text article
 ### BREAKING CHANGES
 
 * **social:** 添加markmap思维导图插件
-
-
 
 ## [0.0.4](https://github.com/passwordgloo/vientiane/compare/v0.0.2...v0.0.4) (2025-05-27)
 
