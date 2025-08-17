@@ -23,6 +23,18 @@ const ps = defineNoteConfig({
   ]
 })
 
+const pr = defineNoteConfig({
+  dir: 'pr',
+  link: '/pr',
+  sidebar: [
+    {
+      text: 'PR与剪映',
+      collapsed: false,
+      items: 'auto'
+    }
+  ]
+})
+
 const ppt = defineNoteConfig({
   dir: 'ppt',
   link: '/ppt',
@@ -74,5 +86,5 @@ const social = defineNoteConfig({
 export const notes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [ai,ps,ppt,social,html,css],
+  notes: [ai,pr,ps,ppt,social,html,css],
 })

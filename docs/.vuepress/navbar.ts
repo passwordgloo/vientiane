@@ -17,7 +17,11 @@ export const navbar = defineNavbarConfig([
         link: '/ps/',
         icon: 'logos:adobe-photoshop'
       },
-
+      {
+        text: 'Premiere Pro',
+        link: '/pr/785ydw7y/',
+        icon: 'logos:adobe-premiere'
+      },
       // {
       //   text: 'Illustrator',
       //   link: '/ai/',
