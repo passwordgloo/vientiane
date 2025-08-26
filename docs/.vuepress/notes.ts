@@ -1,5 +1,17 @@
 import { defineNoteConfig, defineNotesConfig } from 'vuepress-theme-plume'
-const ai = defineNoteConfig({
+const ae = defineNoteConfig({
+  dir: 'ae',
+  link: '/ae',
+  sidebar: [
+    {
+      text: '后期特效',
+      collapsed: false,
+      items: 'auto'
+    }
+  ]
+})
+
+const ai= defineNoteConfig({
   dir: 'ai',
   link: '/ai',
   sidebar: [
@@ -86,5 +98,5 @@ const social = defineNoteConfig({
 export const notes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [ai,pr,ps,ppt,social,html,css],
+  notes: [ae,ai,pr,ps,ppt,social,html,css],
 })

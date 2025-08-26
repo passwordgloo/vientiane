@@ -22,6 +22,11 @@ export const navbar = defineNavbarConfig([
         link: '/pr/785ydw7y/',
         icon: 'logos:adobe-premiere'
       },
+       {
+        text: 'After Effects',
+        link: '/pr/785ydw7y/',
+        icon: 'logos:adobe-after-effects'
+      },
       // {
       //   text: 'Illustrator',
       //   link: '/ai/',
