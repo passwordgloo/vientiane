@@ -1,27 +1,27 @@
 import { defineNoteConfig, defineNotesConfig } from 'vuepress-theme-plume'
-const ae = defineNoteConfig({
-  dir: 'ae',
-  link: '/ae',
-  sidebar: [
-    {
-      text: '后期特效',
-      collapsed: false,
-      items: 'auto'
-    }
-  ]
-})
+// const ae = defineNoteConfig({
+//   dir: 'ae',
+//   link: '/ae',
+//   sidebar: [
+//     {
+//       text: '后期特效',
+//       collapsed: false,
+//       items: 'auto'
+//     }
+//   ]
+// })
 
-const ai= defineNoteConfig({
-  dir: 'ai',
-  link: '/ai',
-  sidebar: [
-    {
-      text: '人工智能',
-      collapsed: false,
-      items: 'auto'
-    }
-  ]
-})
+// const ai= defineNoteConfig({
+//   dir: 'ai',
+//   link: '/ai',
+//   sidebar: [
+//     {
+//       text: '人工智能',
+//       collapsed: false,
+//       items: 'auto'
+//     }
+//   ]
+// })
 
 const ps = defineNoteConfig({
   dir: 'ps',
@@ -35,17 +35,17 @@ const ps = defineNoteConfig({
   ]
 })
 
-const pr = defineNoteConfig({
-  dir: 'pr',
-  link: '/pr',
-  sidebar: [
-    {
-      text: 'PR与剪映',
-      collapsed: false,
-      items: 'auto'
-    }
-  ]
-})
+// const pr = defineNoteConfig({
+//   dir: 'pr',
+//   link: '/pr',
+//   sidebar: [
+//     {
+//       text: 'PR与剪映',
+//       collapsed: false,
+//       items: 'auto'
+//     }
+//   ]
+// })
 
 const ppt = defineNoteConfig({
   dir: 'ppt',
@@ -98,5 +98,5 @@ const social = defineNoteConfig({
 export const notes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [ae,ai,pr,ps,ppt,social,html,css],
+  notes: [ps,ppt,social,html,css],
 })

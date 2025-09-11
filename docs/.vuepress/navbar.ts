@@ -6,27 +6,27 @@ export const navbar = defineNavbarConfig([
     text: '设计',
     icon: 'simple-icons:adobe',
     items: [
-      {
-        text: '人工智能',
-        link: '/ai/',
-        icon: 'svg-spinners:270-ring-with-bg',
-        badge: {type: 'tip', text: '整理中'}
-      },
+      // {
+      //   text: '人工智能',
+      //   link: '/ai/',
+      //   icon: 'svg-spinners:270-ring-with-bg',
+      //   badge: {type: 'tip', text: '整理中'}
+      // },
       {
         text: 'Photoshop',
         link: '/ps/',
         icon: 'logos:adobe-photoshop'
       },
-      {
-        text: 'Premiere Pro',
-        link: '/pr/785ydw7y/',
-        icon: 'logos:adobe-premiere'
-      },
-       {
-        text: 'After Effects',
-        link: '/pr/785ydw7y/',
-        icon: 'logos:adobe-after-effects'
-      },
+      // {
+      //   text: 'Premiere Pro',
+      //   link: '/pr/785ydw7y/',
+      //   icon: 'logos:adobe-premiere'
+      // },
+      //  {
+      //   text: 'After Effects',
+      //   link: '/pr/785ydw7y/',
+      //   icon: 'logos:adobe-after-effects'
+      // },
       // {
       //   text: 'Illustrator',
       //   link: '/ai/',
