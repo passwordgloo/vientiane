@@ -11,17 +11,17 @@ import { defineNoteConfig, defineNotesConfig } from 'vuepress-theme-plume'
 //   ]
 // })
 
-// const ai= defineNoteConfig({
-//   dir: 'ai',
-//   link: '/ai',
-//   sidebar: [
-//     {
-//       text: '人工智能',
-//       collapsed: false,
-//       items: 'auto'
-//     }
-//   ]
-// })
+const aigc= defineNoteConfig({
+  dir: 'aigc',
+  link: '/aigc',
+  sidebar: [
+    {
+      text: '人工智能',
+      collapsed: false,
+      items: 'auto'
+    }
+  ]
+})
 
 const ps = defineNoteConfig({
   dir: 'ps',
@@ -98,5 +98,5 @@ const social = defineNoteConfig({
 export const notes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [ps,ppt,social,html,css],
+  notes: [aigc,ps,ppt,social,html,css],
 })

@@ -2,16 +2,16 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export const navbar = defineNavbarConfig([
   { text: '首页', link: '/', icon: 'solar:home-smile-bold' },
+  // {
+  //   text: '人工智能',
+  //   link: '/aigc/',
+  //   icon: 'svg-spinners:270-ring-with-bg',
+  //   badge: {type: 'tip', text: '整理中'}
+  // },
   {
     text: '设计',
     icon: 'simple-icons:adobe',
     items: [
-      // {
-      //   text: '人工智能',
-      //   link: '/ai/',
-      //   icon: 'svg-spinners:270-ring-with-bg',
-      //   badge: {type: 'tip', text: '整理中'}
-      // },
       {
         text: 'Photoshop',
         link: '/ps/',
@@ -72,6 +72,11 @@ export const navbar = defineNavbarConfig([
         text: '社工',
         icon: 'vscode-icons:file-type-flareact',
         link: '/social/'
+      },
+      {
+        text: '内容生成师',
+        icon: 'vscode-icons:file-type-flareact',
+        link: '/aigc/33v2ii6u/'
       }
     ]
   },
