@@ -2,12 +2,18 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export const navbar = defineNavbarConfig([
   { text: '首页', link: '/', icon: 'solar:home-smile-bold' },
-  // {
-  //   text: '人工智能',
-  //   link: '/aigc/',
-  //   icon: 'svg-spinners:270-ring-with-bg',
-  //   badge: {type: 'tip', text: '整理中'}
-  // },
+  {
+    text: '人工智能',
+    icon: 'solar:star-fall-bold-duotone',
+    // badge: {type: 'tip', text: '整理中'},
+    items: [
+      {
+        text: 'Midjourney',
+        link: '/aigc/midjourney/',
+        icon: 'svg-spinners:270-ring-with-bg'
+      }
+    ]
+  },
   {
     text: '设计',
     icon: 'simple-icons:adobe',

@@ -1,5 +1,6 @@
 ---
 pageLayout: home
+icon: solar:home-smile-bold
 externalLinkIcon: false
 config:
   -

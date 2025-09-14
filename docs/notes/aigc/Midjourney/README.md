@@ -7,7 +7,7 @@ copyright:
   author:
     name: 李桢
 createTime: 2025/09/14 09:13:54
-permalink: /aigc/viyty3fs/
+permalink: /aigc/midjourney/
 ---
 Midjourney 是一款强大的AI 图像生成工具，具有灵活性高、易使用等特点。只需一些简短的文字描述或相关提示词它便可以将你的想象快速转化为现实，不论多么夸张或抽象。与其它 AI 图像生成器相比，Midjourney 具有更快的生成速度和更低的学习门槛，它不仅可以生成各种风格的艺术作品，还可以作为创作灵感的参考来源，因此受到了许多艺术家的青睐。
 

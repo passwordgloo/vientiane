@@ -18,7 +18,7 @@ const aigc= defineNoteConfig({
     {
       text: '人工智能',
       collapsed: false,
-      items: 'auto'
+      items: 'auto',
     }
   ]
 })
