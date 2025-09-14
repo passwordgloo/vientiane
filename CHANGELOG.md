@@ -1,3 +1,14 @@
+## [0.0.8](https://iglooblog.top:8090/foresee/vientiane/compare/0.0.7...0.0.8) (2025-09-14)
+
+
+### Features
+
+* **aigc:** 重构AI内容生成文档结构并添加新内容 ([48d7938](https://iglooblog.top:8090/foresee/vientiane/commits/48d79386b44b10bcfbba79fb92291be680671be9))
+* **docs:** 添加After Effects相关文档和导航配置 ([b495fd3](https://iglooblog.top:8090/foresee/vientiane/commits/b495fd34a1ec62b6faefa1b72541259f27e9b93e))
+* **docs:** 添加Premiere Pro相关文档和导航配置 ([71fe1f3](https://iglooblog.top:8090/foresee/vientiane/commits/71fe1f3b000ac51b31560e87aabc610624f48690))
+
+
+
 ## [0.0.7](https://github.com/passwordgloo/vientiane/compare/v0.0.2...v0.0.7) (2025-06-23)
 
 
