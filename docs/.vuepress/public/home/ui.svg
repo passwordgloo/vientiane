@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 9.07 9.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变);
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变" data-name="未命名的渐变" x1="0" y1="-379.78" x2="8.97" y2="-379.78" gradientTransform="translate(0 -375.17) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5cebff"/>
+      <stop offset="1" stop-color="#00e774"/>
+    </linearGradient>
+  </defs>
+  <g id="_图层_1-2" data-name=" 图层 1">
+    <path class="cls-1" d="M7.15,5.02c-.4,0-.8-.3-.8-.8s.3-.8.8-.8.8.3.8.8-.3.8-.8.8M5.65,3.02c-.4,0-.8-.3-.8-.8s.3-.8.8-.8.8.3.8.8-.3.8-.8.8M3.25,3.02c-.4,0-.8-.3-.8-.8s.3-.8.8-.8.8.3.8.8-.3.8-.8.8M1.65,5.02c-.4,0-.8-.3-.8-.8s.3-.8.8-.8.8.3.8.8-.3.8-.8.8M7.53,6.76c1.24-.37,1.61-1.26,1.52-2.54C8.89,2.11,8.18-.42,4.05.06,1.9.31.88,1.59.39,2.8c-.53,1.31-.5,2.78-.05,4.12.65,1.94,2.92,2.71,4.73,2.08s.52-1.65,2.45-2.24Z"/>
+  </g>
+</svg>
