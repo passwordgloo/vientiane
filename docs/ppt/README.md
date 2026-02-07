@@ -3,7 +3,7 @@ title: 什么是PPT
 createTime: 2024/12/06 19:58:20
 permalink: /ppt/
 ---
-![](https://file.iglooblog.top/pmzd/%E6%88%AA%E5%B1%8F2024-12-07%2016.47.33.webp)
+![](https://file.iglooblog.top/office/ppt/%E6%88%AA%E5%B1%8F2024-12-07%2016.47.33.avif)
 
 ## 学习路线
 
@@ -13,27 +13,27 @@ permalink: /ppt/
 
   <LinkCard title="零基础入门" href="/ppt/qsojbs70/" />
 
-![](https://file.iglooblog.top/pmzd/PixPin_2024-12-07_16-19-39.webp)
+![](https://file.iglooblog.top/office/ppt/PixPin_2024-12-07_16-19-39.avif)
 
 ## 学习方法
 
-![](https://file.iglooblog.top/pmzd/%E6%88%AA%E5%B1%8F2024-12-07%2016.23.31.webp)
+![](https://file.iglooblog.top/office/ppt/%E6%88%AA%E5%B1%8F2024-12-07%2016.23.31.avif)
 
-![](https://file.iglooblog.top/pmzd/%E6%88%AA%E5%B1%8F2024-12-07%2016.25.04.webp)
+![](https://file.iglooblog.top/office/ppt/%E6%88%AA%E5%B1%8F2024-12-07%2016.25.04.avif)
 
-![](https://file.iglooblog.top/pmzd/%E6%88%AA%E5%B1%8F2024-12-07%2016.25.25.webp)
+![](https://file.iglooblog.top/office/ppt/%E6%88%AA%E5%B1%8F2024-12-07%2016.25.25.avif)
 
 ## PPT制作软件
 
-![](https://file.iglooblog.top/pmzd/%E6%88%AA%E5%B1%8F2024-10-26%2011.02.13.webp)
+![](https://file.iglooblog.top/office/ppt/%E6%88%AA%E5%B1%8F2024-10-26%2011.02.13.avif)
 
 ### Office PPT
 
-![](https://file.iglooblog.top/pmzd/%E6%88%AA%E5%B1%8F2024-10-26%2011.03.20.webp)
+![](https://file.iglooblog.top/office/ppt/%E6%88%AA%E5%B1%8F2024-10-26%2011.03.20.avif)
 
 ### 金山WPS
 
-![](https://file.iglooblog.top/pmzd/%E6%88%AA%E5%B1%8F2024-10-26%2011.04.19.webp)
+![](https://file.iglooblog.top/office/ppt/%E6%88%AA%E5%B1%8F2024-10-26%2011.04.19.avif)
 
 ## 下载
 

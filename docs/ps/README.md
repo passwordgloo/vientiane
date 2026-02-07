@@ -10,11 +10,11 @@ Photoshop创始人托马斯·诺尔于1986年开发第一个demo版本，用于�
 
 尽管PS在cc版本增添了简易矢量编辑功能，但是PS还是一款专业的位图编辑软件
 
-![](https://file.iglooblog.top/ps/%E6%88%AA%E5%B1%8F2025-10-16%2022.23.43.png)
+![](https://file.iglooblog.top/ps/%E6%88%AA%E5%B1%8F2025-10-16%2022.23.43.avif)
 
 位图（使用像素）的优点是颜色细致，缺点是占用较大存储空间
 
-![](https://file.iglooblog.top/ps/%E6%88%AA%E5%B1%8F2025-10-16%2022.28.29.png)
+![](https://file.iglooblog.top/ps/%E6%88%AA%E5%B1%8F2025-10-16%2022.28.29.avif)
 
 矢量图（使用数学公式表示图像）优点是放大和缩小都不会失真，缺点是难以表现色彩层次丰富的逼真图像效果
 

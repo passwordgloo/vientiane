@@ -21,7 +21,7 @@ Midjourney 是一款强大的AI 图像生成工具，具有灵活性高、易使
 1. 自行解决科学上网问题
 2. 输入网址 https://www.midjourney.com
 
-   ![截屏2025-09-14 09.18.52](https://file.iglooblog.top/aigc/20250914091927518.png)
+   ![截屏2025-09-14 09.18.52](https://file.iglooblog.top/aigc/20250914091927518.avif)
 
 3. 点击`sign up`注册
 
@@ -33,35 +33,35 @@ Midjourney 是一款强大的AI 图像生成工具，具有灵活性高、易使
    >
    > 📱 注册需要绑定手机号
 
-   ![截屏2025-09-14 09.23.00](https://file.iglooblog.top/aigc/20250914092312799.png)
+   ![截屏2025-09-14 09.23.00](https://file.iglooblog.top/aigc/20250914092312799.avif)
 
 4. 添加服务器
 
    - 点击左侧 `+` 添加服务器
    - 权限设置为仅供我和我的朋友使用
 
-     ![截屏2025-09-14 10.02.28](https://file.iglooblog.top/aigc/20250914100246511.png)
+     ![截屏2025-09-14 10.02.28](https://file.iglooblog.top/aigc/20250914100246511.avif)
 
    - 上传头像并建立服务器名称
 
-     ![截屏2025-09-14 10.03.24](https://file.iglooblog.top/aigc/20250914100424704.png)
+     ![截屏2025-09-14 10.03.24](https://file.iglooblog.top/aigc/20250914100424704.avif)
 
 5. 创建机器人
    - 点击info>announcements
    - 点击右上角小人图标展开成员名单
    - 成员列表中找到“Midjourney BOT"
 
-   ![截屏2025-09-14 09.48.40](https://file.iglooblog.top/aigc/20250914095138561.png)
+   ![截屏2025-09-14 09.48.40](https://file.iglooblog.top/aigc/20250914095138561.avif)
    
    - 点击添加至服务器，并添加授权
    
-   ![截屏2025-09-14 10.07.02](https://file.iglooblog.top/aigc/20250914100834666.png)
+   ![截屏2025-09-14 10.07.02](https://file.iglooblog.top/aigc/20250914100834666.avif)
 
 6. 创建频道
 
    点击 `+` 创建频道，用于区分不同风格作品
    
-   ![截屏2025-09-14 10.10.14](https://file.iglooblog.top/aigc/20250914101056499.png)
+   ![截屏2025-09-14 10.10.14](https://file.iglooblog.top/aigc/20250914101056499.avif)
 
 :::
 
