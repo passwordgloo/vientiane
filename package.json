@@ -1,7 +1,7 @@
 {
   "name": "vientiane-wiki",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "包罗万象",
   "packageManager": "pnpm@10.14.0",
   "author": "foresee <passwordgloo@163.com>",
